@@ -1,0 +1,89 @@
+body{
+    background-image: url(background.jpg);
+    color: white;
+    background-size: cover;
+    
+    
+}
+
+.container{
+    background-color: rgba(0, 0, 0, 0.678);
+    margin-top: 50px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+header{
+    margin-left: 65px;
+   margin-right: 65px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 14px;
+}
+
+main{
+   margin-left: 65px;
+   margin-right: 65px;
+}
+
+.logoimg{
+    width: 220px;
+    display: block;
+    margin-left: auto;
+     margin-right: auto;
+     padding-top: 70px;
+}
+
+#titleh{
+    object-position: center;
+    color: limegreen;
+    text-align: center;
+}
+
+.principalb{
+    padding: 10px;
+    background-color: limegreen;
+    text-align: center;
+    
+
+}
+
+.monopattini{
+    
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.user{
+    font-size: 30px;
+    display: inline-block;
+}
+
+.textinfo{
+    display: block;
+}
+
+.statoricarica-text{
+    display: block;
+}
+
+#c1{
+    width:450px;
+    height: 30px;
+    border-radius: 5px;
+    background-color:orange;
+}
+
+#c2{
+    width:650px;
+    height: 30px;
+    border-radius: 5px;
+    background-color:green;
+}
+
+#c3{
+    width:250px;
+    height: 30px;
+    border-radius: 5px;
+    background-color:red;
+}
